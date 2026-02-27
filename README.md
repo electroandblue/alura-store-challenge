@@ -26,7 +26,19 @@ Tras consolidar los datos en un DataFrame de resumen y generar las visualizacion
 * **Decisión Estratégica:** Se determinó que la **Tienda 4** es la que presenta el menor lucro neto y una eficiencia logística inferior. 
 * **Recomendación:** Se sugiere considerar la venta o cierre de la **Tienda 4** para reasignar capital a las sucursales más rentables y optimizar la operación global de Alura Store.
 
+<h3 align="center">Visualización de Resultados Estratégicos</h3>
+
+<p align="center">
+  <img src="img/analisis_visual.png" alt="Análisis de Tiendas Alura" width="850">
+</p>
+
+<p align="center">
+  <i>Gráfico comparativo de Lucro Real, Calificación de Clientes y Participación en las Ganancias.</i>
+</p>
+
 ## 🛠️ Tecnologías utilizadas
 * **Python**: Con la librería Pandas para el procesamiento de datos y Matplotlib para la visualización.
 * **Google Colab**: Entorno de desarrollo interactivo.
 * **Git & GitHub**: Control de versiones y documentación del proyecto.
+
+
